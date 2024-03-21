@@ -30,26 +30,35 @@ It's important to note that our current scope is focused solely on the visual re
 
 ## Resource Visualizer
 ### InnoDecor Resource Group
+
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/f33c811d-28ad-426b-b3ad-539294883ddf)
 
 ### DSSChat Resource Group
+
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/1479b121-992d-44c6-8a31-405a7e175729)
 
 ## Website Overview
+
 This is Our Home Page
+
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/1021729b-9a3e-4000-9200-ed04eaecd9a6)
+
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/fc4a41a5-280f-4988-82b1-2e5478305898)
+
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/1636bbdc-f7a0-4d42-8ae6-9e8f8ba1a4ee)
 
 
 Our Story Page
+
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/176cdd7f-a7c1-4631-abb9-050cee014216)
+
 
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/ec413d3a-1d64-4916-92f1-df3951151714)
 
  
  
 Frequently Asked Question Page
+
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/b3834a8a-a091-4c03-bb0b-04a9983a6668)
 
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/0299d479-b522-4699-a9d3-55d5f658cac3)
@@ -57,10 +66,13 @@ Frequently Asked Question Page
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/058a8e5b-5e95-47ef-bb60-c11fb1c4f575)
  
 Click on Chat with Us to connect with Azure QnA Maker
+
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/741e2818-3c08-4681-aad9-2ff0a60c1aa8)
 
 Contact Us Page
-![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/4c04c86c-c451-4226-a51a-72be9a19f767)
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/aa36c7e7-0eae-4676-9465-fd81c2db1f12)
+
  
 If I fill the details and Click on Send Button data will be stored in Azure Storage Table
  
