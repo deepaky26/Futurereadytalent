@@ -151,8 +151,11 @@ Azure App Service Backups
 
 • Microsoft Visual Studio
 
-#### URLs Drive video URL: 
+#### URLs Drive Project Video and Document URL: 
 https://drive.google.com/drive/folders/1przJoC5cRx2QUnhew2n_Xi-wSkiTg5B3?usp=drive_link
+
+#### URLs Drive Project Document URL:
+https://drive.google.com/file/d/1rI8d3C_uDuRON0gjEYNou2fIzrZ5Af3C/view?usp=drive_link
 
 #### Working Project URL:
 https://innodecor.azurewebsites.net/
