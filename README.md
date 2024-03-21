@@ -92,6 +92,61 @@ Create Web App in another Resource Group - Innodecor
 
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/0f6a79ef-d957-4391-9947-1b7392dcc65a)
 
+InnoDecor Web App
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/6571ba47-e7d9-4f41-ac7b-111d15b89df6)
+
+Azure Application Insights - InnoDecorAIR
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/4d662593-7b7c-45d2-9354-a60f4f64aa8f)
+
+Smart Detector Alert Rule in Azure Application Insight
+
+Azure Log Alert Rule - ServiceIssue
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/62c9e187-223c-41df-8ddf-157b10078cc8)
+
+Azure Log Analytics Workspace - workspace-InnoDecorAIR
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/438f160a-8792-44d8-b99c-2c352fee7e62)
+
+Connection Between Storage Account Table and Web App
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/09543f90-7af3-4d32-82c7-ac346c312c81)
+
+Coonection Betwwen azure Bot and Web App 
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/ae602d98-0574-4054-a9e1-e2ec36262cb4)
+
+Azure App Service Backups
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/64ee77b4-8acb-41af-9d2e-3972d3df048f)
+
+## Technologies / Tools Used
+
+• Microsoft Azure QnA Maker Service and cognitive service
+
+• Azure Storage account and App Service
+
+• Microsoft Visual Studio
+
+#### URLs Drive video URL: 
+https://drive.google.com/drive/folders/1przJoC5cRx2QUnhew2n_Xi-wSkiTg5B3?usp=drive_link
+
+#### Working Project URL:
+https://innodecor.azurewebsites.net/
+
+#### Azure Account ID:
+sakshi192487@mccmulund.ac.in
+
+
+
+
+
+
+
+
+
 
 
 
