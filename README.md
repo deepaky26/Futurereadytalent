@@ -149,6 +149,8 @@ https://innodecor.azurewebsites.net/
 sakshi192487@mccmulund.ac.in
 
 
+Gratitude to the Future Ready Talent Program and Microsoft Azure for empowering our project with cutting-edge technology and invaluable support, propelling us towards innovation and success.
+
 
 
 
