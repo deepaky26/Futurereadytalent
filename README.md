@@ -88,13 +88,22 @@ Create a Azure Bot Resource Group - DSSChat
 
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/6438020c-cbd7-45dc-9257-eb98b552f25f)
 
+Azure Language
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/7ee1970c-0912-462e-b04b-23b5aaf18710)
+
+Azure Bot
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/ed1ff092-72b7-40a4-8171-904ac560c1d4)
+
 Create Web App in another Resource Group - Innodecor
 
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/0f6a79ef-d957-4391-9947-1b7392dcc65a)
 
 InnoDecor Web App
 
-![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/6571ba47-e7d9-4f41-ac7b-111d15b89df6)
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/fc41b790-bc2c-4b1a-b7be-e51c38adca8e)
+
 
 Azure Application Insights - InnoDecorAIR
 
