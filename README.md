@@ -4,14 +4,14 @@ Presenting a cutting-edge Future Ready Talent Program designed to equip individu
 ## Group Project
 Group Members:
 
-Deepak Yadav -
-https://github.com/deepaky26
-
 Sakshi Gupta -
 https://github.com/SakshiGupta1901
 
 Saif Idrisi - 
 https://github.com/saif001100
+
+Deepak Yadav -
+https://github.com/deepaky26
 
 ## Introduction
 
