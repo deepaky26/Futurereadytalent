@@ -38,11 +38,8 @@ It's important to note that our current scope is focused solely on the visual re
 ## Website Overview
 This is Our Home Page
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/1021729b-9a3e-4000-9200-ed04eaecd9a6)
-
-![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/6eb3ad35-76f1-4617-8e7d-4d16f9fd7005)
-
-![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/3d02cdbc-46f7-4f5d-a6a2-023e80019467)
-
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/fc4a41a5-280f-4988-82b1-2e5478305898)
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/1636bbdc-f7a0-4d42-8ae6-9e8f8ba1a4ee)
 
 
 Our Story Page
