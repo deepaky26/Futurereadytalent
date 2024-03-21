@@ -78,6 +78,25 @@ If I fill the details and Click on Send Button data will be stored in Azure Stor
  
 ![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/01643c53-3869-4dc4-a772-f8aa03f2b7f4)
 
+## Implementation
+
+Create Storage Account and a table to store data
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/79c51518-f647-49d7-8f29-de32376486f0)
+
+Create a Azure Bot Resource Group - DSSChat
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/6438020c-cbd7-45dc-9257-eb98b552f25f)
+
+Create Web App in another Resource Group - Innodecor
+
+![image](https://github.com/deepaky26/Futurereadytalent/assets/163496220/0f6a79ef-d957-4391-9947-1b7392dcc65a)
+
+
+
+
+
+
 
 
 
