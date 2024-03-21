@@ -160,7 +160,7 @@ https://drive.google.com/file/d/1rI8d3C_uDuRON0gjEYNou2fIzrZ5Af3C/view?usp=drive
 #### Working Project URL:
 https://innodecor.azurewebsites.net/
 
-#### Azure Account ID:
+#### Azure Student Account ID:
 sakshi192487@mccmulund.ac.in
 
 
